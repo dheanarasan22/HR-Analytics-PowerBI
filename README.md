@@ -107,4 +107,4 @@ Power BI Desktop, DAX, Power Query
 
 ## Author
 
-Your Name | [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+**SALAI DHEAN ARASAN S** | [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
