@@ -17,19 +17,19 @@ Every page shares the same slicer panel (Department, Year, Employment Status), c
 ## Dashboard preview
 
 ### 1. Overview
-![Overview]([Screenshots/01_Overview.png](https://github.com/dheanarasan22/HR-Analytics-PowerBI/blob/main/01_Overview.png])
+([01_Overview.png](https://github.com/dheanarasan22/HR-Analytics-PowerBI/blob/main/01_Overview.png])
 
 ### 2. Attrition
-![Attrition]([Screenshots/02_Attrition.png](https://github.com/dheanarasan22/HR-Analytics-PowerBI/blob/main/02_Attrition.png))
+([02_Attrition.png](https://github.com/dheanarasan22/HR-Analytics-PowerBI/blob/main/02_Attrition.png))
 
 ### 3. Pay and Performance
-![Pay and Performance]([Screenshots/03_Pay_Performance.png](https://github.com/dheanarasan22/HR-Analytics-PowerBI/blob/main/03_Pay_Performance.png))
+([03_Pay_Performance.png](https://github.com/dheanarasan22/HR-Analytics-PowerBI/blob/main/03_Pay_Performance.png))
 
 ### 4. Hiring and Engagement
-![Hiring and Engagement]([Screenshots/04_Hiring_Engagement.png](https://github.com/dheanarasan22/HR-Analytics-PowerBI/blob/main/04_Hiring_Engagement.png))
+([04_Hiring_Engagement.png](https://github.com/dheanarasan22/HR-Analytics-PowerBI/blob/main/04_Hiring_Engagement.png))
 
 ### 5. Workforce Profile
-![Workforce Profile]([Screenshots/05_Workforce_Profile.png](https://github.com/dheanarasan22/HR-Analytics-PowerBI/blob/main/05_Workforce_Profile.png))
+([05_Workforce_Profile.png](https://github.com/dheanarasan22/HR-Analytics-PowerBI/blob/main/05_Workforce_Profile.png))
 
 ## Key findings
 
