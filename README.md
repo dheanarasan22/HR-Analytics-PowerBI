@@ -17,7 +17,7 @@ Every page shares the same slicer panel (Department, Year, Employment Status), c
 ## Dashboard preview
 
 ### 1. Overview
-([01_Overview.png](https://github.com/dheanarasan22/HR-Analytics-PowerBI/blob/main/01_Overview.png])
+([01_Overview.png](https://github.com/dheanarasan22/HR-Analytics-PowerBI/blob/main/01_Overview.png))
 
 ### 2. Attrition
 ([02_Attrition.png](https://github.com/dheanarasan22/HR-Analytics-PowerBI/blob/main/02_Attrition.png))
